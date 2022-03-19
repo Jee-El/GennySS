@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @GennySS
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GennySS/GennySS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on small projects to practice my skills
+- 🚀 Keep an eye on this repository as it will keep receiving updates over time
