@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @GennySS
+- 👋 Hi, I’m @Jee-El
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on small projects to practice my skills
+- 📫 Find me on Discord @ Jee-El#7627
 - 🚀 Keep an eye on this repository as it will keep receiving updates over time
