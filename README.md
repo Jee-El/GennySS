@@ -3,4 +3,4 @@
 - 👀 I’m looking to collaborate on small projects to practice my skills
 - 📫 Find me on Discord @ Jee-El#7627
 - 🚀 Keep an eye on this repository as it will keep receiving updates over time
-- <img src="https://github-readme-stats.vercel.app/api?username=Jee-El"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jee-El"/>
