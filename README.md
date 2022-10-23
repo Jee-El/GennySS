@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lhoussaine Ghallou</h1>
-<h3 align="center">AKA Jee-El, a passionate web developer from Morocco</h3>
+<h3 align="center">AKA Jee-El, A Passionate Programmer & Developer from Morocco</h3>
 
 - 🔭 I’m currently working on [reddit-in-valve-games](https://github.com/Jee-El/reddit-in-valve-games)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Ruby**
+- 🌱 I’m currently learning **HTML, CSS, JS, Ruby, Python**
 
 - 👨‍💻 All of my projects are available at [https://jee-el.github.io/](https://jee-el.github.io/)
 
