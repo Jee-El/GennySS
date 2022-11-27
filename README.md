@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [reddit-in-valve-games](https://github.com/Jee-El/reddit-in-valve-games)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Ruby, Python**
+- 🌱 I’m currently learning **CSS, JS, Python**
 
 - 👨‍💻 All of my projects are available at [https://jee-el.github.io/](https://jee-el.github.io/)
 
