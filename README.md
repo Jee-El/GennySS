@@ -1,4 +1,5 @@
-<h3 align="center">A passionate programmer & software engineering student from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Lhoussaine Ghallou</h1>
+<h3 align="center">AKA Jee-El, a passionate programmer from Morocco</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
